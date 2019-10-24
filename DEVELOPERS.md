@@ -45,7 +45,7 @@ git clone https://github.com/<github username>/markdown-editor.git
 cd markdown-editor
 
 # Add the main Markdown-Editor repository as an upstream remote to your repository:
-git remote add upstream "https://github.com/acccordproject/markdown-editor.git"
+git remote add upstream "https://github.com/accordproject/markdown-editor.git"
 
 # Install node.js dependencies:
 npm install
@@ -199,4 +199,4 @@ Accord Project documentation files are made available under the [Creative Common
 [jsdoc]: http://usejsdoc.org/
 
 [apache]: https://github.com/accordproject/markdown-editor/blob/master/LICENSE
-[creativecommons]: http://creativecommons.org/licenses/by/4.0/
+[creativecommons]: http://creativecommons.org/licenses/by/4.0/ 
